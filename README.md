@@ -1,1 +1,1 @@
-# This is the repo for the investigation of Helm package manager
+#This is part of a University project conducted by student from Aalborg University Copenhagen. DO NOT USE !!!
