@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2024-03-10T17:45:15.827708704+01:00"
+entries:
+  aau_dep_test_chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-25T14:30:46.486525422+01:00"
+    description: A Helm chart for Kubernetes
+    digest: b28dab880bf41ce286e82a79bbe0df3905f41e28293712cae104362b77361ca4
+    name: aau_dep_test_chart
+    type: application
+    urls:
+    - helm_AAU_project-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-25T14:30:46.486040088+01:00"
